@@ -1,0 +1,32 @@
+_repo: When-the-squadron-dropped-anchor_70349
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burtis, Thomson
+    alias: Burtis, Thomas
+    birthdate: 1896
+    deathdate: 1971
+    gutenberg_agent_id: '54799'
+    url: http://www.gutenberg.org/2009/agents/54799
+    wikipedia: https://en.wikipedia.org/wiki/Thomson_Burtis
+description: ''
+gutenberg_issued: '2023-03-24'
+identifiers:
+  gutenberg: '70349'
+language: en
+pgterms:marc904: https://archive.org/details/popular-magazine-v-084-n-06-1927-07-07
+pgterms:marc905: 20230225062753evans
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York, NY :$bStreet & Smith Publications, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'United States. Navy -- Officers -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: When the squadron dropped anchor
+url: http://www.gutenberg.org/ebooks/70349
