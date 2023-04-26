@@ -1,5 +1,8 @@
 _repo: When-the-squadron-dropped-anchor_70349
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70349-h/images/cover.jpg
 creator:
   author:
     agent_name: Burtis, Thomson
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54799
     wikipedia: https://en.wikipedia.org/wiki/Thomson_Burtis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70349#When-the-squadron-dropped-anchor
 gutenberg_issued: '2023-03-24'
 identifiers:
   gutenberg: '70349'
